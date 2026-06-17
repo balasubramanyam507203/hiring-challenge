@@ -1,0 +1,31 @@
+company_name,mailing_address,contact_name,contact_role,contact_email_or_phone,confidence_score,needs_human_review,provenance,confidence_reason
+Cedar Ridge Plumbing LLC,"4821 Maple Ave, Lincoln, NE 68504",Daniel Ortega,Owner,d.ortega@cedarridgeplumbing.com,100,false,mock://registry/ne/cedar-ridge-plumbing | mock://listing/cedar-ridge-plumbing | mock://enrichment/cedar-ridge-plumbing,registry source present; listing source present; enrichment confidence 84; registry and listing agree on contact name; role signal: Owner
+Bayview Auto Repair,"129 Harbor St, Tacoma, WA 98402",Karen Liu,Owner,karen@bayviewauto.com,87,false,mock://registry/wa/bayview-auto-repair | mock://enrichment/bayview-auto-repair,registry source present; enrichment confidence 78; role signal: Owner
+Sunbelt Roofing Co,"7714 Desert Bloom Rd, Mesa, AZ 85207",,,,53,true,mock://listing/sunbelt-roofing | mock://enrichment/sunbelt-roofing,listing source present; enrichment confidence 66; listing and enrichment agree on phone
+Riverside Print & Sign,"302 W 3rd St, Davenport, IA 52801",,,,14,true,mock://enrichment/riverside-print-sign,enrichment confidence 41
+Magnolia Family Dental,"1188 Peachtree Ln, Macon, GA 31201",Dr. Patel,,,15,true,mock://listing/magnolia-family-dental,listing source present
+Northgate HVAC Services,"56 Industrial Pkwy, Akron, OH 44310",Thomas Reed,Registered Agent,,40,true,mock://registry/oh/northgate-hvac,registry source present; role signal: Registered Agent
+Pioneer Landscaping Inc,"940 Prairie View Dr, Boise, ID 83704",Maria Gomez,President,maria@pioneerlandscaping.com,100,false,mock://registry/id/pioneer-landscaping | mock://listing/pioneer-landscaping | mock://enrichment/pioneer-landscaping,registry source present; listing source present; enrichment confidence 88; registry and listing agree on contact name; listing and enrichment agree on phone; role signal: President
+Harbor Light Electric,"22 Dockside Ave, New Bedford, MA 02740",Sean Murphy,Owner,+1-508-555-0160,95,false,mock://registry/ma/harbor-light-electric | mock://listing/harbor-light-electric,registry source present; listing source present; registry and listing agree on contact name; role signal: Owner
+Summit Pest Control,"6310 Highland Blvd, Reno, NV 89506",,,,13,true,mock://enrichment/summit-pest-control,enrichment confidence 38
+Greenfield Catering Group,"415 Orchard St, Springfield, MO 65806",Angela Brooks,Owner,a.brooks@greenfieldcater.com,85,false,mock://registry/mo/greenfield-catering | mock://enrichment/greenfield-catering,registry source present; enrichment confidence 72; role signal: Owner
+Lakeside Auto Glass,"88 Lakeshore Dr, Madison, WI 53703",Jeff (manager),,,35,true,mock://listing/lakeside-auto-glass | mock://enrichment/lakeside-auto-glass,listing source present; enrichment confidence 58
+Ironclad Welding Shop,"1701 Foundry Rd, Pittsburgh, PA 15201",Robert Kowalski,Owner,bob@ironcladweld.com,100,false,mock://registry/pa/ironclad-welding | mock://listing/ironclad-welding | mock://enrichment/ironclad-welding,registry source present; listing source present; enrichment confidence 81; registry and listing agree on contact name; listing and enrichment agree on phone; role signal: Owner
+Coastal Breeze Pool Service,"233 Seagrape Way, Sarasota, FL 34236",Tina Alvarez,Manager,,60,true,mock://registry/fl/coastal-breeze-pool | mock://listing/coastal-breeze-pool,registry source present; listing source present; role signal: Manager
+Redwood Cabinetry,"509 Timber Ct, Eugene, OR 97401",,,,0,true,,no mock provider data found
+Anchor Marine Supply,"17 Wharf St, Portland, ME 04101",,,,22,true,mock://enrichment/anchor-marine,enrichment confidence 63
+Desert Sky Solar,"4400 Sunray Dr, Tucson, AZ 85706",,,,0,true,,no mock provider data found
+Brookside Veterinary Clinic,"760 Willow Bend, Chattanooga, TN 37402",Dr. Emily Hart,Owner,emily.hart@brooksidevet.com,100,false,mock://registry/tn/brookside-vet | mock://listing/brookside-vet | mock://enrichment/brookside-vet,registry source present; listing source present; enrichment confidence 86; registry and listing agree on contact name; role signal: Owner
+Cornerstone Masonry,"311 Brickyard Ln, Wichita, KS 67202",,,,0,true,,no mock provider data found
+Velvet Thread Tailoring,"55 Garment Row, Allentown, PA 18101",,,,0,true,,no mock provider data found
+Frontier Towing & Recovery,"9201 Range Rd, Cheyenne, WY 82001",,,,0,true,,no mock provider data found
+Blue Heron Landscaping,"144 Marsh View Dr, Charleston, SC 29401",,,,0,true,,no mock provider data found
+Ace Mobile Locksmith,"27 Keystone Ave, Toledo, OH 43604",,,,0,true,,no mock provider data found
+Maple Leaf Bakery,"612 Baker St, Burlington, VT 05401",,,,15,true,mock://listing/maple-leaf-bakery,listing source present
+Granite Peak Surveying,"800 Summit Rd, Helena, MT 59601",,,,0,true,,no mock provider data found
+Tidewater Plumbing & Heating,"45 Estuary Ln, Norfolk, VA 23510",George Whitfield,Owner,g.whitfield@tidewaterph.com,86,false,mock://registry/va/tidewater-plumbing | mock://enrichment/tidewater-plumbing,registry source present; enrichment confidence 76; role signal: Owner
+Sierra Vista Auto Body,"3320 Foothill Dr, Fresno, CA 93720",,,,0,true,,no mock provider data found
+Hometown Hardware Co,"19 Main St, Dubuque, IA 52001",,,,15,true,mock://enrichment/hometown-hardware,enrichment confidence 44
+Evergreen Tree Care,"507 Cedar Hollow, Spokane, WA 99201",,,,0,true,,no mock provider data found
+Liberty Sign & Awning,"1290 Freedom Blvd, Allen, TX 75002",,,,0,true,,no mock provider data found
+Crescent Moon Cafe,"73 Bourbon Walk, Lafayette, LA 70501",,,,0,true,,no mock provider data found
